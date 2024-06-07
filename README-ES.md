@@ -23,3 +23,36 @@
 [[Español]](https://github.com/ZfIxV/Zecoar-Modpack-EX/tree/main/README-ES.md)   El idioma que utiliza actualmente es `Español`        
 [[日本語]](https://github.com/ZfIxV/Zecoar-Modpack-EX/tree/main/README-JP.md)   現在使用している言語は`スペイン語`です        
 [[한국어]](https://github.com/ZfIxV/Zecoar-Modpack-EX/tree/main/README-KO.md)   현재 사용하고 있는 언어는`스페인어`입니다         
+
+**¿cómo jugar con Zecoar Modpack EX?**
+
+1. abra su arranque Minecraft (por ejemplo: pcl2, hmcls, bakaxl, etc.) con la función de importar modpack
+2. abra su interfaz de importación modpack (no ofrecemos tutoriales para encontrar la interfaz para importar modpack, por favor busque ayuda en línea)
+3. importar el modpack zip descargado
+4. pendiente de instalación
+5. cuando el modpack se instale con éxito, puede usar el zecoar modpack para jugar.
+
+**¿qué pasa si no tengo un arranque que pueda importar modpack?**
+
+No te preocupes, aquí hay un tutorial de importación sin arranque.
+
+1. descargar el archivo `mods.zip` publicado con modpack
+2. extraer `mods.zip`;
+3. copie los archivos extraídos a la carpeta donde está listo para ejecutar el juego (necesita instalar su propio fabric) (esta carpeta debe estar en ... / Minecraft name / mods).
+
+**Notas**
+
+1.<span id="ref1">¡El paquete integrado está actualmente en producción, ¡ por favor, siga prestando atención!</span>
+2.<span id="ref2">Si agregas un mod tú mismo, puede causar que el juego se bloquee, así que antes de agregarlo, asegúrate de que no entre en conflicto con el mod en el modpack.</span>
+
+**más conciso y compacto**
+
+¿¿ es demasiado complicado integrar paquetes de expansión? Tenemos el paquete original. [haga clic para obtener más información](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-SC.md)
+
+**¿te gusta nuestro paquete de recursos?**
+
+A partir de 1.21, nuestro paquete de materiales será independiente del paquete de integración zecoat, que puede usar en la versión correspondiente. Tenga la seguridad de que todavía puede verlo en el paquete de expansión de integración zecoat después de 1.21. [haga clic para obtener más información](https://github.com/ZfIxV/Zarba-Respack/README-SC.md)
+
+**Comentarios**
+
+Si tiene algún problema al reproducir este paquete integrado, proporcione comentarios al `problema`.

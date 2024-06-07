@@ -43,7 +43,7 @@ Don't worry, there is a import tutorial without launcher.
 **Notes**
 
 1. <span id="ref1">The integration package is currently in production, please stay tuned!</span>
-2. <span id="ref2">If you add a module yourself, it may cause the game to crash, so before adding it, make sure it does not conflict with the modules in the integration package.</span>
+2. <span id="ref2">If you add a mod yourself, it may cause the game to crash, so before adding it, make sure it does not conflict with the mods in the modpack.</span>
 
 **More concise and compact**
 

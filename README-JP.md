@@ -23,3 +23,19 @@
 [[Español]](https://github.com/ZfIxV/Zecoar-Modpack-EX/tree/main/README-ES.md)   El idioma que utiliza actualmente es `Japonés`        
 [[日本語]](https://github.com/ZfIxV/Zecoar-Modpack-EX/tree/main/README-JP.md)   現在使用している言語は`日本語`です        
 [[한국어]](https://github.com/ZfIxV/Zecoar-Modpack-EX/tree/main/README-KO.md)   현재 사용하고 있는 언어는`일본어`입니다         
+
+**Zecoar Modpackの遊び方**
+
+1.Minecraftイニシエータ（例：PCL 2、HMGL、BakaXLなどのmodpacks導入機能を持つイニシエータ）を開く
+2.インポートモードパックインタフェースを開きます（インポートモードパックのインタフェースを探すチュートリアルは提供していません。オンラインでヘルプを探してください）
+3.ダウンロードしたmodpack zipをインポートする
+4.インストール待ち
+5.modpackのインストールに成功したら、Zecoar modpackを使用してゲームを行うことができます。
+
+**Modpacksをインポートできるイニシエータがない場合は**
+
+心配しないでください。ここにはイニシエータのないインポートチュートリアルがあります。
+
+1.modpacksとともにリリースされた`mods.zip`ファイルをダウンロードする
+2.`mods.zip `を抽出する
+3.抽出したファイルをゲームを実行する準備ができているフォルダにコピーします（Fabricを自分でインストールする必要があります）（このフォルダは./minecraft name/modsにある必要があります）。
