@@ -1,0 +1,50 @@
+{
+    "net.minecraft.class_481": {
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 4,
+                "bottom": 5
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 3,
+                "bottom": 5
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 2,
+                "bottom": 5
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 370,
+                "top": 113
+            }
+        }
+    },
+    "net.minecraft.class_490": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": 2,
+                "bottom": 4
+            },
+            "SORT": {
+                "horizontalOffset": 2,
+                "bottom": 5
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 2,
+                "bottom": 5
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 2,
+                "bottom": 5
+            },
+            "CONTINUOUS_CRAFTING": {
+                "horizontalOffset": -3,
+                "bottom": -1
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 444,
+                "top": 142
+            }
+        }
+    }
+}

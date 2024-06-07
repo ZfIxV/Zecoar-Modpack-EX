@@ -1,0 +1,16 @@
+{
+  "main_menu": {
+    "top_left": [],
+    "top_right": [],
+    "bottom_left": ["Zecoar Modpack Beta 1201B08B(v0.8)"],
+    "bottom_right": ["Made by ZfIxV(蜂箱君)"],
+    "mod_blacklist": []
+  },
+  "pause_menu": {
+    "top_left": [],
+    "top_right": [],
+    "bottom_left": ["Zecoar Modpack Beta 1201B08B(v0.8)"],
+    "bottom_right": [],
+    "mod_blacklist": []
+  }
+}

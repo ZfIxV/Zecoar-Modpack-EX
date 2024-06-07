@@ -1,0 +1,162 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "C:\\Users\\ljx\\AppData\\Roaming\\.minecraft\\versions\\Zecoar Modpack 1.20.1\\schematics\\树场\u0026刷石一体机高级版.litematic",
+        "name": "树场\u0026刷石一体机高级版",
+        "origin": [
+          1198,
+          70,
+          4026
+        ],
+        "rotation": "CLOCKWISE_90",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": true,
+        "locked_coords": 0,
+        "bb_color": 8404597,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "树场\u0026刷石一体机高级版",
+            "placement": {
+              "pos": [
+                39,
+                0,
+                61
+              ],
+              "name": "树场\u0026刷石一体机高级版",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\ljx\\AppData\\Roaming\\.minecraft\\versions\\Zecoar Modpack 1.20.1\\schematics\\多功能仓库.litematic",
+        "name": "多功能仓库",
+        "origin": [
+          1109,
+          63,
+          4012
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": true,
+        "locked_coords": 0,
+        "bb_color": 16738304,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "多功能仓库",
+            "placement": {
+              "pos": [
+                20,
+                0,
+                0
+              ],
+              "name": "多功能仓库",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\ljx\\AppData\\Roaming\\.minecraft\\versions\\Zecoar Modpack 1.20.1\\schematics\\烤只因机.litematic",
+        "name": "烤只因机",
+        "origin": [
+          1150,
+          70,
+          4038
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": true,
+        "locked_coords": 0,
+        "bb_color": 16757504,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "烤只因机",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                10
+              ],
+              "name": "烤只因机",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 2,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "SCHEMATIC_PLACEMENT",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "y",
+    "layer_single": 0,
+    "layer_above": 0,
+    "layer_below": 0,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "刷花机PC",
+    "current": "刷花机PC",
+    "boxes": [
+      {
+        "pos1": [
+          1111,
+          63,
+          4009
+        ],
+        "pos2": [
+          1111,
+          63,
+          4009
+        ],
+        "name": "刷花机PC"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}
