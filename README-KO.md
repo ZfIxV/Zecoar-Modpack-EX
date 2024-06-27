@@ -9,7 +9,7 @@
 | :-: | :-: | :-: | :-: |
 | Zecoar Modpack EX | 1.0 | ≥Java 17 | 1.20.1 |
 | Zecoar Modpack EX Beta | 0.6 | ≥Java 17 | 1.20.1 |
-| Zecoar Modpack EX Alpha | 0.0 | ≥Java 21 | 1.21 |
+| Zecoar Modpack EX Alpha | 0.1 | ≥Java 21 | 1.21 |
   <p>
     <img src="https://img.shields.io/badge/Mod%20Loader-Fabric-dbd0b4?style=flat" alt="Fabric Mod Loader" />
 </p>
@@ -36,6 +36,7 @@
 **Modpacks를 가져올 수 있는 이니시에이터가 없으면 어떻게 합니까?**
 
 걱정하지 마십시오. 이니시에이터가 없는 가져오기 자습서가 있습니다.
-1. modpacks와 함께 게시된 `mods.zip` 파일 다운로드
-2. `mods.zip` 추출
-3. 추출된 파일을 게임을 실행할 폴더로 복사합니다 (직접 Fabric을 설치해야 함)(./minecraft name/mods에 있어야 함).
+
+1. Modpacks와 함께 게시된 "IV"의 끝인 파일을 다운로드합니다.
+2. 추출
+3. 추출된 파일을 게임을 실행할 폴더로 복사합니다 (직접 Fabric을 설치해야 함)(./minecraft name에 있어야 함).

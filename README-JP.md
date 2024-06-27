@@ -9,7 +9,7 @@
 | :-: | :-: | :-: | :-: |
 | Zecoar Modpack EX | 1.0 | ≥Java 17 | 1.20.1 |
 | Zecoar Modpack EX Beta | 0.6 | ≥Java 17 | 1.20.1 |
-| Zecoar Modpack EX Alpha | 0.0 | ≥Java 21 | 1.21 |
+| Zecoar Modpack EX Alpha | 0.1 | ≥Java 21 | 1.21 |
   <p>
     <img src="https://img.shields.io/badge/Mod%20Loader-Fabric-dbd0b4?style=flat" alt="Fabric Mod Loader" />
 </p>
@@ -25,13 +25,13 @@
 [[日本語]](https://github.com/ZfIxV/Zecoar-Modpack-EX/tree/main/README-JP.md)   現在使用している言語は`日本語`です        
 [[한국어]](https://github.com/ZfIxV/Zecoar-Modpack-EX/tree/main/README-KO.md)   현재 사용하고 있는 언어는`일본어`입니다         
 
-**Zecoar Modpackの遊び方**
+**Modpacksをインポートできるイニシエータがない場合は**
 
-1.Minecraftイニシエータ（例：PCL 2、HMGL、BakaXLなどのmodpacks導入機能を持つイニシエータ）を開く
-2.インポートモードパックインタフェースを開きます（インポートモードパックのインタフェースを探すチュートリアルは提供していません。オンラインでヘルプを探してください）
-3.ダウンロードしたmodpack zipをインポートする
-4.インストール待ち
-5.modpackのインストールに成功したら、Zecoar modpackを使用してゲームを行うことができます。
+心配しないでください。ここにはイニシエータのないインポートチュートリアルがあります。
+
+1. Modpacksとともにリリースされた「IV」の末尾を示すファイルをダウンロードする
+2. 抽出
+3. 抽出したファイルをゲームを実行する準備ができているフォルダにコピーします（Fabricを自分でインストールする必要があります）（このフォルダは./minecraft nameにある必要があります）。
 
 **Modpacksをインポートできるイニシエータがない場合は**
 

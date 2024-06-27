@@ -9,7 +9,7 @@
 | :-: | :-: | :-: | :-: |
 | Zecoar Modpack EX | 1.0 | ≥Java 17 | 1.20.1 |
 | Zecoar Modpack EX Beta | 0.6 | ≥Java 17 | 1.20.1 |
-| Zecoar Modpack EX Alpha | 0.0 | ≥Java 21 | 1.21 |
+| Zecoar Modpack EX Alpha | 0.1 | ≥Java 21 | 1.21 |
   <p>
     <img src="https://img.shields.io/badge/Mod%20Loader-Fabric-dbd0b4?style=flat" alt="Fabric Mod Loader" />
 </p>
@@ -37,9 +37,9 @@
 
 No te preocupes, aquí hay un tutorial de importación sin arranque.
 
-1. descargar el archivo `mods.zip` publicado con modpack
-2. extraer `mods.zip`;
-3. copie los archivos extraídos a la carpeta donde está listo para ejecutar el juego (necesita instalar su propio fabric) (esta carpeta debe estar en ... / Minecraft name / mods).
+1. descargar el archivo, que es el final del "iv" publicado con modpack
+2. extracción
+3. copie los archivos extraídos a la carpeta donde está listo para ejecutar el juego (necesita instalar su propio fabric) (esta carpeta debe estar en... / Minecraft name).
 
 **Notas**
 
