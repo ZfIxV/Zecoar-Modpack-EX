@@ -10,6 +10,18 @@
 | Zecoar Modpack EX | 1.0 | ≥Java 17 | 1.20.1 |
 | Zecoar Modpack EX Beta | 0.6 | ≥Java 17 | 1.20.1 |
 | Zecoar Modpack EX Alpha | 0.1 | ≥Java 21 | 1.21 |
+
+| Minecraft バージョン | Minecraft Ver. | Zecoar Modpack EX Alpha | Zecoar Modpack EX Beta | Zecoar Modpack EX |
+| :-: | :-: | :-: | :-: |
+| 1.20 | 使用できない | 使用できない | 使用できない |
+| 1.20.1 | 使用できない | 使用できない | 使用できない |
+| 1.20.2 | 使用できない | 使用できない | 使用できない |
+| 1.20.3 | 使用できない | 使用できない | 使用できない |
+| 1.20.4 | 使用できない | 使用できない | 使用できない |
+| 1.20.5 | 使用できない | 使用できない | 使用できない |
+| 1.20.6 | 使用できない | 使用できない | 使用できない |
+| 1.21 | 入手可能 | 使用できない | 使用できない |
+
   <p>
     <img src="https://img.shields.io/badge/Mod%20Loader-Fabric-dbd0b4?style=flat" alt="Fabric Mod Loader" />
 </p>
