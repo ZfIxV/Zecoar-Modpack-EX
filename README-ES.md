@@ -9,7 +9,7 @@
 | :-: | :-: | :-: | :-: |
 | Zecoar Modpack EX | 1.0 | ≥Java 17 | 1.20.1 |
 | Zecoar Modpack EX Beta | 0.6 | ≥Java 17 | 1.20.1 |
-| Zecoar Modpack EX Alpha | 0.1 | ≥Java 21 | 1.21 |
+| Zecoar Modpack EX Alpha | 0.2 | ≥Java 21 | 1.21 |
 
 | Minecraft Ver. | Zecoar Modpack EX Alpha | Zecoar Modpack EX Beta | Zecoar Modpack EX |
 | :-: | :-: | :-: | :-: |
