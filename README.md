@@ -9,17 +9,12 @@
 | :-: | :-: | :-: | :-: |
 | Zecoar Modpack EX | 1.0 | ≥Java 17 | 1.20.1 |
 | Zecoar Modpack EX Beta | 0.6 | ≥Java 17 | 1.20.1 |
-| Zecoar Modpack EX Alpha | 0.2 | ≥Java 21 | 1.21 |
+| Zecoar Modpack EX Alpha | 0.3 | ≥Java 21 | 1.21 |
 
 | Minecraft Ver. | Zecoar Modpack EX Alpha | Zecoar Modpack EX Beta | Zecoar Modpack EX |
 | :-: | :-: | :-: | :-: |
 | 1.20 | Unavailable | Unavailable | Unavailable |
-| 1.20.1 | Unavailable | Unavailable | Unavailable |
-| 1.20.2 | Unavailable | Unavailable | Unavailable |
-| 1.20.3 | Unavailable | Unavailable | Unavailable |
-| 1.20.4 | Unavailable | Unavailable | Unavailable |
-| 1.20.5 | Unavailable | Unavailable | Unavailable |
-| 1.20.6 | Unavailable | Unavailable | Unavailable |
+| 1.20.x | Unavailable | Unavailable | Unavailable |
 | 1.21 | Available | Unavailable | Unavailable |
 
 <p>
