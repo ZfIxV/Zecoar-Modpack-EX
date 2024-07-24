@@ -48,6 +48,10 @@
 
 2.自行下載綜合包內的模組，我們將會把綜合包內的模組打包成壓縮包，並與綜合包一起上傳，待下載完成後，您只需要將解壓縮的`.jar`檔案複製進已經準備好的運行遊戲（需自行安裝Fabric）文件夾即可（這個資料夾應該在./minecraft name/mods）。
 
+導入的船新途徑！
+
+我們已經將綜合包上傳到了Modrinth！ [按一下以瞭解更多](https://modrinth.com/modpack/zecoar-modpack-ex)
+
 **備註**
 
 1. <span id="ref1">綜合包正在製作中敬請期待！</span>

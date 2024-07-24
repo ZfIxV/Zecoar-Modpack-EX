@@ -47,3 +47,7 @@
 1.modpacksとともにリリースされた`mods.zip`ファイルをダウンロードする
 2.`mods.zip `を抽出する
 3.抽出したファイルをゲームを実行する準備ができているフォルダにコピーします（Fabricを自分でインストールする必要があります）（このフォルダは./minecraft name/modsにある必要があります）。
+
+新しいインポート権限！
+
+Modrinthにmodpackをアップロードしました！[詳細を見るにはクリック](https://modrinth.com/modpack/zecoar-modpack-ex)

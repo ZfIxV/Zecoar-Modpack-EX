@@ -48,6 +48,11 @@ Don't worry, there is a import tutorial without launcher.
 2. Extract it
 3. Copy the extracted files into the folder that is ready to run the game (you need to install Fabric yourself) (this folder should be in ./minecraft name).
 
+New access to import!
+
+We have already upload the modpack on Modrinth![Click to know more](https://modrinth.com/modpack/zecoar-modpack-ex)
+
+
 **Notes**
 
 1. <span id="ref1">The integration package is currently in production, please stay tuned!</span>

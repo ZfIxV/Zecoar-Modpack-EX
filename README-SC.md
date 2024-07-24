@@ -46,6 +46,10 @@
 
 2.自行下载整合包内的模组，我们将会把整合包内的模组打包成压缩包，并与整合包一起上传，待下载完成后，您只需要将解压缩的`.jar`文件复制进已经准备好的运行游戏（需自行安装 Fabric）文件夹即可（这个文件夹应该在./minecraft name/mods）。
 
+导入的船新途径！
+
+我们已经将整合包上传到了Modrinth![单击以了解更多](https://modrinth.com/modpack/zecoar-modpack-ex)
+
 **备注**
 
 1.  <span id="ref2">整合包正在制作中 敬请期待！</span>
