@@ -55,8 +55,8 @@ We have already upload the modpack on Modrinth![Click to know more](https://modr
 
 **Notes**
 
-1. <span id="ref1">The integration package is currently in production, please stay tuned!</span>
-2. <span id="ref2">If you add a mod yourself, it may cause the game to crash, so before adding it, make sure it does not conflict with the mods in the modpack.</span>
+1. <span id="ref2">If you add a mod yourself, it may cause the game to crash, so before adding it, make sure it does not conflict with the mods in the modpack.</span>
+2. The shaderpack "ComplementaryReimagined" is belong to EminGT.Any problem about this shaderpack is entirely under the responsibility of the author of Zecoar Modpack.
 
 **More concise and compact**
 

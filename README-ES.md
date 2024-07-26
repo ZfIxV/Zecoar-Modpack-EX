@@ -54,8 +54,8 @@ No te preocupes, aquí hay un tutorial de importación sin arranque.
 
 **Notas**
 
-1.<span id="ref1">¡El paquete integrado está actualmente en producción, ¡ por favor, siga prestando atención!</span>
-2.<span id="ref2">Si agregas un mod tú mismo, puede causar que el juego se bloquee, así que antes de agregarlo, asegúrate de que no entre en conflicto con el mod en el modpack.</span>
+1.<span id="ref2">Si agregas un mod tú mismo, puede causar que el juego se bloquee, así que antes de agregarlo, asegúrate de que no entre en conflicto con el mod en el modpack.</span>
+2. El paquete de color "ComplementaryReimagined" pertenece a emingt. Cualquier pregunta sobre este paquete de colores es responsabilidad exclusiva de los autores de zecoar modpack.
 
 **más conciso y compacto**
 

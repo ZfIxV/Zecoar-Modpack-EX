@@ -51,3 +51,20 @@
 새 가져오기 권한!
 
 저희가 모드린스에 모닥팩을 올렸습니다![자세한 내용을 보려면 클릭](https://modrinth.com/modpack/zecoar-modpack-ex)
+
+**참고 사항**
+
+1. 스스로 모듈을 추가하면 게임이 충돌할 수 있으므로 추가하기 전에 모듈 패키지의 모듈과 충돌하지 않도록 하십시오.
+2. 셰이더 패키지 "ComplementaryReimagined"는 EminGT에 속합니다.이 셰이더 패키지에 대한 모든 문제는 Zecoar Modpack의 작성자가 전적으로 담당합니다.
+
+**단순성 향상**
+
+통합 확장 팩이 너무 복잡합니까?우리는 원본 소포를 가지고 있다.[자세한 내용을 보려면 클릭](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-SC.md)
+
+**우리의 리소스 패키지를 좋아하십니까?**
+
+1.21부터 자재 패키지는 Zecoat 통합 패키지와 독립적이며 해당 버전에서 사용할 수 있습니다.1.21 이후에도 Zecoat 통합 확장 팩에서 볼 수 있습니다.[자세한 내용을 보려면 클릭](https://github.com/ZfIxV/Zarba-Respack/README-SC.md)
+
+**피드백**
+
+이 통합 패키지를 재생하는 동안 문제가 발생하면 "Issue"에 피드백을 주십시오`

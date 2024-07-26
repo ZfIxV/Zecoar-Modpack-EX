@@ -54,12 +54,12 @@
 
 **備註**
 
-1. <span id="ref1">綜合包正在製作中敬請期待！</span>
-2. <span id="ref2">如果您自行添加模組，可能會導致遊戲崩潰，所以在添加之前，確保它不會與綜合包內的模組衝突。</span>
+1. <span id="ref2">如果您自行添加模組，可能會導致遊戲崩潰，所以在添加之前，確保它不會與綜合包內的模組衝突。</span>
+2. 光影“ComplementaryReimagined”屬於EminGT。 關於此光影的任何問題都完全由Zecoar Modpack的作者負責。
 
 **更加簡潔、小巧**
 
-綜合擴展包太複雜？ 我們有原版包。 [點擊以瞭解詳情]（ https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-TC.md ）
+綜合擴展包太複雜？ 我們有原版包。 [點擊以瞭解詳情](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-TC.md)
 
 **喜歡我們的材質包？**
 
