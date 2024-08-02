@@ -1,4 +1,7 @@
 ![COVER](https://github.com/ZfIxV/Zecoar-Modpack-EX/blob/main/Zecoar%20EX%20-%20Header.png)
+
+**注意: 该整合包在Github上已被遗弃，请移步至我们的[Modrinth页面](https://modrinth.com/modpack/zecoar-modpack-ex/)**
+
 <div align='center'>
 
 **Zecoar Modpack EX**

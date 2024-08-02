@@ -1,4 +1,7 @@
 ![COVER](https://github.com/ZfIxV/Zecoar-Modpack-EX/blob/main/Zecoar%20EX%20-%20Header.png)
+
+**참고: 이 modpack은 Github에서 더 이상 사용되지 않습니다. [Modrinth 페이지](https://modrinth.com/modpack/zecoar-modpack-ex/)**
+
 <div align='center'>
   
 **Zecoar Modpack EX**
